@@ -79,6 +79,8 @@ b{
     align-items: center;
     padding: 0 10%;
     overflow: hidden;
+    background: url(bgg.jpg);
+    background-size: cover;
 }
 
 .wrapper::before{
