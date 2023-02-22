@@ -40,7 +40,7 @@ nav{
 
 b{
     font-size: 60px;
-    color: #2200ff;
+    color: #289aba;
 }
 
 .navItems{
@@ -62,7 +62,7 @@ b{
 
 .navItems li:hover a,
 .links a:hover{
-    color: #7f00ff;
+    color: #69c8ea;
 }
 
 .links a{
@@ -142,18 +142,18 @@ b{
     height: 4px;
     width: 45px;
     bottom: 10px;
-    background-color: #7f00ff;
+    background-color: #279cc3;
 }
 
 h1{
     display: block;
     font-size: 7em;
-    font-weight: 900;
+    font-weight: 700;
     color: #3d3d3d;
 }
 
 .multiText{
-    color: #7f00ff;
+    color: #2195acfb;
     text-transform: capitalize;
 
 }
