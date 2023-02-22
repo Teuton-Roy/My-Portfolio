@@ -135,7 +135,7 @@ b{
     position: relative;
     font-size: 45px;
     letter-spacing: 5px;
-    color: #3d3d3d;
+    color: #ababab;
 }
 
 .topline::after{
@@ -151,7 +151,7 @@ h1{
     display: block;
     font-size: 7em;
     font-weight: 700;
-    color: #3d3d3d;
+    color: #ababab;
 }
 
 .multiText{
