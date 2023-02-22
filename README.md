@@ -26,3 +26,8 @@ For Normal HTML, CSS, JavaScript--
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>  
     <script src=" "></script>  
 
+
+# how to set any picture in your web-page using css 🤔🤔??
+
+        background: url(your photo);
+        background-size: cover;
