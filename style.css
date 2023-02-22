@@ -164,7 +164,8 @@ p{
     display: block;
     width: 90%;
     font-size: 1.2em;
-    color:#3d535f;
+    /* color:#3d535f; */
+    color: #fff;
 }
 
 .btns{
