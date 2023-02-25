@@ -38,6 +38,10 @@ nav{
     text-transform: uppercase;
 }
 
+.logo:hover{
+    color: #69c8ea;
+}
+
 b{
     font-size: 60px;
     color: #289aba;
